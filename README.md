@@ -37,6 +37,8 @@ The Expense Splitter helps groups of people (roommates, friends on trips, etc.) 
 
 The application currently displays initial sample data but needs full functionality implemented.
 
+**📸 Visual Reference:** See the `screenshots/` folder for images of what the completed application should look like. These screenshots show all features working and can help you understand the requirements.
+
 ## 📋 Detailed Requirements
 
 ### 1. People Management
