@@ -1,6 +1,8 @@
-export const initialPeople = ["Alice", "Bob", "Charlie", "Diana"];
+import { Expense } from './types';
 
-export const initialExpenses = [
+export const initialPeople: string[] = ["Alice", "Bob", "Charlie", "Diana"];
+
+export const initialExpenses: Expense[] = [
   {
     id: 1,
     description: "Lunch at restaurant",
