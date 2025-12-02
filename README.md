@@ -239,16 +239,4 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📝 License
 
-
-
----
-
-<div align="center">
-
-**⭐ Star this repo if you find it helpful!**
-
-Built with ❤️ using React & Tailwind CSS
-
-</div>
