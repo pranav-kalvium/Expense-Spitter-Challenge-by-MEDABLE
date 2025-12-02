@@ -8,7 +8,6 @@
 [![Vite](https://img.shields.io/badge/Vite-5.0-purple.svg)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-cyan.svg)](https://tailwindcss.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg)](https://www.typescriptlang.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 </div>
 
@@ -26,7 +25,6 @@
 - [Folder Structure](#-folder-structure)
 - [Future Roadmap](#-future-roadmap)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
